@@ -15,3 +15,5 @@
 ## 🎯 Objetivo General
 
 Comprender la arquitectura de la Interfaz de Firmware Extensible Unificada (UEFI) como un entorno pre-sistema operativo. Se busca desarrollar binarios nativos, analizar su formato y ejecutar rutinas tanto en entornos emulados como en hardware físico (bare metal).
+
+Aclaracion: este readme no es el informe del trabajo practico, el informe se encuentra en formato pdf dentro del repositorio.
